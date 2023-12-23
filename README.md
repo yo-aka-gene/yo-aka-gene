@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/Google_Scholar-333333?style=for-the-badge&logo=googlescholar">](https://scholar.google.co.jp/citations?user=BYyQIqkAAAAJ)
 [<img src="https://img.shields.io/badge/orcid-333333?style=for-the-badge&logo=orcid">](https://orcid.org/0000-0002-3767-1292)
-[<img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/%E9%9B%84%E5%A3%AB-%E5%B2%A1%E9%87%8E-929a5227a/?locale=en_US)
+[<img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/yuji-okano-929a5227a/?locale=en_US)
 
 <!--
 **yo-aka-gene/yo-aka-gene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
