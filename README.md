@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yo-aka-gene&count_private=true&show_icons=true&hide=contribs&theme=transparent" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-aka-gene)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-aka-gene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
