@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Yuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo-aka-gene&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-aka-gene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
